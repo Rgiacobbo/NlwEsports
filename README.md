@@ -4,7 +4,7 @@
 
 > Tilha Esplorer
 
-Projeto construido do evento Next Level Week da Rocketseat
+Projeto construído do evento Next Level Week da Rocketseat
 
 [🔗 Clique aqui para acessar](https://rgiacobbo.github.io/nlw-esports-explorer/)
 
